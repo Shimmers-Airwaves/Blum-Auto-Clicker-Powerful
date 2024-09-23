@@ -1,3 +1,4 @@
+![369777624-fa6b5d09-d8bc-4a95-ab4c-9a8d3e176e7d](https://github.com/user-attachments/assets/ae81fcb5-d290-4dfa-8f41-e93de126942b)
 ✨ AutoClicker для Blum работает в браузере telegram WEB A или в telegram WEB K режиме автоматически, тапая снежинки за вас при запуске скрипта.✨
 
 ПРЕИМУЩЕСТВА:
